@@ -1,4 +1,4 @@
-x <- 15
+x <- 20
 
 pdf("figures/viz.pdf")
 
